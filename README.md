@@ -1,5 +1,5 @@
 # BREAKDOWN: Cara Bangun Bot Telegram Carousel (Step by Step)
-Sesuai tutorial dari TikTok yang diikuti.
+
 
 ## Pipeline Dasar (Step 1)
 Bot Telegram dengan fitur carousel yang menggunakan AI untuk generate gambar dan konten. Struktur file:
